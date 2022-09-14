@@ -7,8 +7,8 @@ import time
 
 sr = speech_recognition.Recognizer()
 
-openai.organization = "org"
-openai.api_key = "OPENAI_API_KEY"
+openai.organization = "org" # ADD ORGANIZATION ID HERE
+openai.api_key = "OPENAI_API_KEY" # ADD YOUR API KEY HERE
 
 promptElements = [
             "The following is a conversation with an AI assistant. He provides factual information. The assistant is helpful, creative, clever, polite, and very friendly.\n",
