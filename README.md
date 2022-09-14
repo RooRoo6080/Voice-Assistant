@@ -17,7 +17,7 @@ openai:
 
 pyttsx3 (text to speech):
 ```pip install pyttsx3```
- - this one is a bit tricky as it may ask you to download some C++ tools, but a link to the download is given.
+ - it may ask you to download some C++ tools
  
 speech_recognition:
 ```pip install SpeechRecognition```
